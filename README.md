@@ -5,5 +5,5 @@ Screenshot from localhost:
 
 How to run:
 1. Clone the repository
-2. npm start
+2. npm install
 3. npm run dev
